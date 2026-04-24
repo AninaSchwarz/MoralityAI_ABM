@@ -1,4 +1,4 @@
-# MoralityAI_ABM
+# Morality and AI ABM
 
 A simplified agent-based model of moral trade-offs in AI governance using a networked Hegselmann–Krause bounded-confidence model with adaptive confidence thresholds.
 
