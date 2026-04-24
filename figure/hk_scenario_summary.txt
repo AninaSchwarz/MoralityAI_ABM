@@ -1,0 +1,36 @@
+HK scenario summary (end of simulation)
+
+Scenario: privacy_first
+  final ideology polarization  = 0.003
+  final affective polarization = 0.421
+  final mean violation         = 0.000
+  mean epsilon (final)         = 0.424
+  incident rate (mean)         = 0.150
+
+Scenario: safety_first_low_safeguards
+  final ideology polarization  = 0.165
+  final affective polarization = 0.457
+  final mean violation         = 0.367
+  mean epsilon (final)         = 0.169
+  incident rate (mean)         = 0.000
+
+Scenario: safety_first_high_safeguards
+  final ideology polarization  = 0.176
+  final affective polarization = 0.459
+  final mean violation         = 0.036
+  mean epsilon (final)         = 0.350
+  incident rate (mean)         = 0.014
+
+Scenario: targeted_policing_with_safeguards
+  final ideology polarization  = 0.010
+  final affective polarization = 0.442
+  final mean violation         = 0.008
+  mean epsilon (final)         = 0.366
+  incident rate (mean)         = 0.029
+
+Scenario: high_inference_moderate_collection
+  final ideology polarization  = 0.199
+  final affective polarization = 0.462
+  final mean violation         = 0.039
+  mean epsilon (final)         = 0.348
+  incident rate (mean)         = 0.014
